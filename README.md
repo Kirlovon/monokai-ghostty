@@ -54,6 +54,6 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 ## License
 
-> These color schemes were converted from the original iTerm2 color schemes by [Monokai Pro](https://monokai.pro/iterm). All rights to the original color schemes and the **Monokai Pro** trademark are owned by Monokai.
+> These themes are based on the original [Monokai Pro](https://monokai.pro/iterm) iTerm2 color schemes by [Monokai](https://monokai.com/). All rights to the original color schemes and the **Monokai Pro** trademark belong to original author.
 
-Code and generated configs under MIT License _(see [LICENSE](./LICENSE) file)_
+The code and generated configurations are licensed under the MIT License _(see [LICENSE](./LICENSE) file)_
