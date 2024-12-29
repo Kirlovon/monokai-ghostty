@@ -24,7 +24,7 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 ## Installation
 
-1. Download archive wih themes from the [releases page](https://github.com/Kirlovon/monokai-ghostty/releases).
+1. Download the [archive with themes](https://github.com/Kirlovon/monokai-ghostty/releases).
 
 2. Extract theme files to the themes folder:
 
@@ -40,7 +40,7 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 ## Building from Source
 
-1. Make sure you have [Deno](https://deno.land/) installed.
+1. Make sure you have [Deno](https://deno.land/) _(at least v2.0)_ installed.
 
 2. Copy the original `.itermcolors` theme files to the `itermcolors` folder in the repo directory. You can get them from the official [Monokai Pro](https://monokai.pro/iterm) website.
 
@@ -54,6 +54,6 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 ## License
 
-> These themes are based on the original [Monokai Pro](https://monokai.pro/iterm) iTerm2 color schemes by [Monokai](https://monokai.com/). All rights to the original color schemes and the **Monokai Pro** trademark belong to original author.
+> These themes are based on the original [Monokai Pro](https://monokai.pro/iterm) iTerm2 color schemes by [Monokai](https://monokai.com/). All rights to the original color schemes and the **Monokai Pro** trademark belong to the original author.
 
 The code and generated configurations are licensed under the MIT License _(see [LICENSE](./LICENSE) file)_
