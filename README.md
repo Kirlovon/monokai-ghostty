@@ -2,28 +2,34 @@
 
 # Monokai for Ghostty 👻
 
-Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Generated from the official iTerm2 color schemes, made by [Monokai](https://monokai.com/).
+Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Generated from the official [Monokai Pro](https://monokai.pro/) color schemes for iTerm2, made by [Monokai](https://monokai.com/).
 
 <br>
 
-> For quick installation, just put the content of the theme file into your terminal config. For regular installation, follow the [instruction](#installation) below.
-
-| Theme                                                                               | Preview                                          |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------ |
-| **Monokai Pro** <br> [Link to file](./Monokai%20Pro)                                | ![Monokai Pro](./images/MonokaiPro.webp)         |
-| **Monokai Classic** <br> [Link to file](./Monokai%20Classic)                        | ![Monokai Classic](./images/MonokaiClassic.webp) |
-| **Monokai Pro (Filter Octagon)** <br> [Link to file](./Monokai%20Pro%20Octagon)     | ![Octagon](./images/MonokaiProOctagon.webp)      |
-| **Monokai Pro (Filter Machine)** <br> [Link to file](./Monokai%20Pro%20Machine)     | ![Machine](./images/MonokaiProMachine.webp)      |
-| **Monokai Pro (Filter Ristretto)** <br> [Link to file](./Monokai%20Pro%20Ristretto) | ![Ristretto](./images/MonokaiProRistretto.webp)  |
-| **Monokai Pro (Filter Spectrum)** <br> [Link to file](./Monokai%20Pro%20Spectrum)   | ![Spectrum](./images/MonokaiProSpectrum.webp)    |
-| **Monokai Pro Light** <br> [Link to file](./Monokai%20Pro%20Light)                  | ![Light](./images/MonokaiProLight.webp)          |
-| **Monokai Pro Light (Filter Sun)** <br> [Link to file](./Monokai%20Pro%20Sun)       | ![Sun](./images/MonokaiProLightSun.webp)         |
+> [!TIP]
+> Currently, themes from this repository are also included in the [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes). Ghostty automatically fetches themes from there, so you don’t need to download anything. Just specify one of the theme names in your config:
+> ```ini
+> theme = "Monokai Pro" # Or "Monokai Pro Spectrum", "Monokai Pro Light", etc
+> ```
 
 <br>
 
-## Installation
+| Theme                                                                        | Preview                                          |
+| ---------------------------------------------------------------------------- | ------------------------------------------------ |
+| **Monokai Pro** <br> [Link to file](./Monokai%20Pro)                         | ![Monokai Pro](./images/MonokaiPro.webp)         |
+| **Monokai Classic** <br> [Link to file](./Monokai%20Classic)                 | ![Monokai Classic](./images/MonokaiClassic.webp) |
+| **Monokai Pro Octagon** <br> [Link to file](./Monokai%20Pro%20Octagon)       | ![Octagon](./images/MonokaiProOctagon.webp)      |
+| **Monokai Pro Machine** <br> [Link to file](./Monokai%20Pro%20Machine)       | ![Machine](./images/MonokaiProMachine.webp)      |
+| **Monokai Pro Ristretto** <br> [Link to file](./Monokai%20Pro%20Ristretto)   | ![Ristretto](./images/MonokaiProRistretto.webp)  |
+| **Monokai Pro Spectrum** <br> [Link to file](./Monokai%20Pro%20Spectrum)     | ![Spectrum](./images/MonokaiProSpectrum.webp)    |
+| **Monokai Pro Light** <br> [Link to file](./Monokai%20Pro%20Light)           | ![Light](./images/MonokaiProLight.webp)          |
+| **Monokai Pro Light Sun** <br> [Link to file](./Monokai%20Pro%20Light%20Sun) | ![Sun](./images/MonokaiProLightSun.webp)         |
 
-1. Download archive wih themes from the [releases page]().
+<br>
+
+## Manual Installation
+
+1. Download the [archive with themes](https://github.com/Kirlovon/monokai-ghostty/releases).
 
 2. Extract theme files to the themes folder:
 
@@ -39,9 +45,9 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 ## Building from Source
 
-1. Make sure you have [Deno](https://deno.land/) installed.
+1. Make sure you have [Deno](https://deno.land/) _(at least v2.0)_ installed.
 
-2. Copy the original `.itermcolors` theme files to the `itermcolors` folder in the repo directory. You can get them from the [Monokai Pro](https://monokai.pro/iterm) website.
+2. Copy the original `.itermcolors` theme files to the `itermcolors` folder in the repo directory. You can get them from the official [Monokai Pro](https://monokai.pro/iterm) website.
 
 3. Run the generation script:
 
@@ -53,6 +59,6 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 ## License
 
-> These color schemes were converted from the original iTerm2 color schemes by [Monokai Pro](https://monokai.pro/iterm). All rights to the original color schemes and the **Monokai Pro** trademark are owned by Monokai.
+> These themes are based on the original [Monokai Pro](https://monokai.pro/iterm) iTerm2 color schemes by [Monokai](https://monokai.com/). All rights to the original color schemes and the **Monokai Pro** trademark belong to the original author.
 
-Code and generated configs under MIT License _(see [LICENSE](./LICENSE) file)_
+The code and generated configurations are licensed under the MIT License _(see [LICENSE](./LICENSE) file)_

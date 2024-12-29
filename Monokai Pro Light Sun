@@ -1,6 +1,5 @@
 # Monokai Pro Light Sun
-# Based on Monokai Pro iTerm2 color scheme, made by Monokai.
-# https://monokai.pro/iterm
+# Based on Monokai Pro color scheme, made by Monokai. https://monokai.pro/
 
 window-colorspace = srgb
 palette = 0=f8efe7
