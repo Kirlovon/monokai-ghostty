@@ -6,6 +6,7 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 <br>
 
+> [!TIP]
 > For a quick installation, simply put the theme file content into your terminal config! For a regular installation, follow the [instructions](#installation) below.
 
 | Theme                                                                      | Preview                                          |
