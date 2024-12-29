@@ -6,7 +6,7 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 <br>
 
-> For quick installation, just put the content of the theme file into your terminal config.
+> For quick installation, just put the content of the theme file into your terminal config. For regular installation, follow the [instruction](#installation) below.
 
 | Theme                                                                               | Preview                                          |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -22,8 +22,6 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 <br>
 
 ## Installation
-
-> For quick installation, just put the content of the theme file into your terminal config.
 
 1. Download archive wih themes from the [releases page]().
 

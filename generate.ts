@@ -3,7 +3,6 @@
  * To use this script, place all `.itermcolors` files in a folder named `itermcolors` in the same directory as this script.
  * Run the script using `deno run --allow-read --allow-write generate.ts`.
  * The generated themes will be saved in the same directory as this script.
- * Modify the `INPUT_DIR`, `OUTPUT_DIR`, and `PREFIX` constants to customize the script.
  */
 
 import { join } from 'jsr:@std/path';
