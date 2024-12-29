@@ -1,0 +1,8 @@
+# Original iTerm2 color schemes
+itermcolors/
+
+# Node modules
+node_modules/
+
+# Visual Studio Code config
+.vscode
