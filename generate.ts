@@ -16,7 +16,7 @@ const INPUT_DIR = './itermcolors';
 const OUTPUT_DIR = './';
 
 // Prefix with credits
-const PREFIX = '# Based on Monokai Pro iTerm2 color scheme, made by Monokai: https://monokai.pro/iterm';
+const PREFIX = '# Based on Monokai Pro iTerm2 color scheme, made by Monokai. https://monokai.pro/iterm';
 
 interface ITermColors {
 	plist: {

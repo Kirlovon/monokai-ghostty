@@ -1,8 +1,8 @@
-![SDF](./preview.webp)
+![Theme Preview](./images/preview.webp)
 
 # Monokai Pro for Ghostty 👻
 
-Monokai Pro theme for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Generated from the original iTerm2 color schemes, made by [Monokai](https://monokai.com/) .
+Monokai Pro theme for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Generated from the original iTerm2 color schemes, made by [Monokai](https://monokai.com/).
 
 <br>
 
@@ -21,7 +21,7 @@ Monokai Pro theme for [Ghostty](https://github.com/mitchellh/ghostty) terminal. 
 
 ## Installation
 
-> For quick installation, just put content of the theme file into your settings in `~/.config/ghostty/config` file.
+> For quick installation, just put content of the theme file into your settings.
 
 1. Download themes from the [releases page]().
 
