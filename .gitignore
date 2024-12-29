@@ -8,4 +8,4 @@ node_modules/
 .vscode
 
 # Affinity Designer lock files
-.afdesign~lock~
+**/*.afdesign~lock~
