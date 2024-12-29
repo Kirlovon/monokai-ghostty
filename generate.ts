@@ -15,7 +15,7 @@ const INPUT_DIR = './itermcolors';
 const OUTPUT_DIR = './';
 
 // Prefix with credits
-const PREFIX = '# Based on Monokai Pro iTerm2 color scheme, made by Monokai. https://monokai.pro/iterm';
+const PREFIX = '# Based on Monokai Pro color scheme, made by Monokai. https://monokai.pro/';
 
 interface ITermColors {
 	plist: {
@@ -114,7 +114,7 @@ function generate() {
 			const theme = convertTheme(themeName, fileData);
 
 			Deno.writeTextFileSync(join(OUTPUT_DIR, themeName), theme);
-			console.log(`Converted: ${file.name}`);
+			console.log(`Converted: ${file.name} -> ${themeName}`);
 		} catch (error) {
 			console.error(`Error converting ${file.name}:`, error);
 		}
