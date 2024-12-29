@@ -8,16 +8,16 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 > For quick installation, just put the content of the theme file into your terminal config.
 
-| Theme                          | Preview                                             | File Path                                            |
-| ------------------------------ | --------------------------------------------------- | ---------------------------------------------------- |
-| Monokai Pro                    | ![Theme Preview](./images/MonokaiPro.webp)          | [Monokai Classic](./Monokai%20Classic)               |
-| Monokai Classic                | ![Theme Preview](./images/MonokaiClassic.webp)      | [Monokai Pro](./Monokai%20Pro)                       |
-| Monokai Pro (Filter Octagon)   | ![Theme Preview](./images/MonokaiProOctagon.webp)   | [Monokai Pro Octagon](./Monokai%20Pro%20Octagon)     |
-| Monokai Pro (Filter Machine)   | ![Theme Preview](./images/MonokaiProMachine.webp)   | [Monokai Pro Machine](./Monokai%20Pro%20Machine)     |
-| Monokai Pro (Filter Ristretto) | ![Theme Preview](./images/MonokaiProRistretto.webp) | [Monokai Pro Ristretto](./Monokai%20Pro%20Ristretto) |
-| Monokai Pro (Filter Spectrum)  | ![Theme Preview](./images/MonokaiProSpectrum.webp)  | [Monokai Pro Spectrum](./Monokai%20Pro%20Spectrum)   |
-| Monokai Pro Light              | ![Theme Preview](./images/MonokaiProLight.webp)     | [Monokai Pro Light](./Monokai%20Pro%20Light)         |
-| Monokai Pro Light (Filter Sun) | ![Theme Preview](./images/MonokaiProLightSun.webp)  | [Monokai Pro Light Sun](./Monokai%20Pro%20Sun)       |
+| Theme                                                                               | Preview                                          |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **Monokai Pro** <br> [Link to file](./Monokai%20Pro)                                | ![Monokai Pro](./images/MonokaiPro.webp)         |
+| **Monokai Classic** <br> [Link to file](./Monokai%20Classic)                        | ![Monokai Classic](./images/MonokaiClassic.webp) |
+| **Monokai Pro (Filter Octagon)** <br> [Link to file](./Monokai%20Pro%20Octagon)     | ![Octagon](./images/MonokaiProOctagon.webp)      |
+| **Monokai Pro (Filter Machine)** <br> [Link to file](./Monokai%20Pro%20Machine)     | ![Machine](./images/MonokaiProMachine.webp)      |
+| **Monokai Pro (Filter Ristretto)** <br> [Link to file](./Monokai%20Pro%20Ristretto) | ![Ristretto](./images/MonokaiProRistretto.webp)  |
+| **Monokai Pro (Filter Spectrum)** <br> [Link to file](./Monokai%20Pro%20Spectrum)   | ![Spectrum](./images/MonokaiProSpectrum.webp)    |
+| **Monokai Pro Light** <br> [Link to file](./Monokai%20Pro%20Light)                  | ![Light](./images/MonokaiProLight.webp)          |
+| **Monokai Pro Light (Filter Sun)** <br> [Link to file](./Monokai%20Pro%20Sun)       | ![Sun](./images/MonokaiProLightSun.webp)         |
 
 <br>
 
