@@ -2,7 +2,7 @@
 
 # Monokai for Ghostty 👻
 
-Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Generated from the official iTerm2 color schemes, made by [Monokai](https://monokai.com/).
+Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Generated from the official [Monokai Pro](https://monokai.pro/) color schemes for iTerm2, made by [Monokai](https://monokai.com/).
 
 <br>
 
