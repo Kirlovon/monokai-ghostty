@@ -7,7 +7,12 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 <br>
 
 > [!TIP]
-> For quick setup, copy the theme file content into your terminal config. For regular installation, follow the [instructions](#installation) below.
+> Currently, themes from this repository are also included in the [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes). Ghostty automatically fetches themes from there, so you don’t need to download anything. Just specify one of the theme names in your config:
+> ```ini
+> theme = "Monokai Pro" # Or "Monokai Pro Spectrum", "Monokai Pro Light", etc
+> ```
+
+<br>
 
 | Theme                                                                        | Preview                                          |
 | ---------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -22,7 +27,7 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 <br>
 
-## Installation
+## Manual Installation
 
 1. Download the [archive with themes](https://github.com/Kirlovon/monokai-ghostty/releases).
 
