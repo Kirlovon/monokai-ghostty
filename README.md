@@ -1,5 +1,5 @@
 > [!TIP]
-> Themes from this repository are also included in [iTerm2-Colour-Schemes](https://github.com/mbadolato/iTerm2-Colour-Schemes). Ghostty automatically fetches themes from there, so you don’t need to download anything. Just specify a theme name in your config!
+> Themes from this repository are also included in [iTerm2-Colour-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes). Ghostty automatically fetches themes from there, so you don’t need to download anything. Just specify a theme name in your config!
 > ```ini
 > theme = "Monokai Pro" # Or "Monokai Pro Spectrum", "Monokai Pro Light", etc
 > ```
