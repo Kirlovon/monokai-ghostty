@@ -1,16 +1,16 @@
+> [!TIP]
+> Themes from this repository are also included in [iTerm2-Colour-Schemes](https://github.com/mbadolato/iTerm2-Colour-Schemes). Ghostty automatically fetches themes from there, so you don’t need to download anything. Just specify a theme name in your config!
+> ```ini
+> theme = "Monokai Pro" # Or "Monokai Pro Spectrum", "Monokai Pro Light", etc
+> ```
+
+<br>
+
 ![Theme Preview](./images/preview.webp)
 
 # Monokai for Ghostty 👻
 
 Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Generated from the official [Monokai Pro](https://monokai.pro/) color schemes for iTerm2, made by [Monokai](https://monokai.com/).
-
-<br>
-
-> [!TIP]
-> Currently, themes from this repository are also included in the [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes). Ghostty automatically fetches themes from there, so you don’t need to download anything. Just specify one of the theme names in your config:
-> ```ini
-> theme = "Monokai Pro" # Or "Monokai Pro Spectrum", "Monokai Pro Light", etc
-> ```
 
 <br>
 
