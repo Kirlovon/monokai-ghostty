@@ -14,16 +14,16 @@ Monokai themes for [Ghostty](https://github.com/mitchellh/ghostty) terminal. Gen
 
 <br>
 
-| Theme                                                                        | Preview                                          |
-| ---------------------------------------------------------------------------- | ------------------------------------------------ |
-| **Monokai Pro** <br> [Link to file](./Monokai%20Pro)                         | ![Monokai Pro](./images/MonokaiPro.webp)         |
-| **Monokai Classic** <br> [Link to file](./Monokai%20Classic)                 | ![Monokai Classic](./images/MonokaiClassic.webp) |
-| **Monokai Pro Octagon** <br> [Link to file](./Monokai%20Pro%20Octagon)       | ![Octagon](./images/MonokaiProOctagon.webp)      |
-| **Monokai Pro Machine** <br> [Link to file](./Monokai%20Pro%20Machine)       | ![Machine](./images/MonokaiProMachine.webp)      |
-| **Monokai Pro Ristretto** <br> [Link to file](./Monokai%20Pro%20Ristretto)   | ![Ristretto](./images/MonokaiProRistretto.webp)  |
-| **Monokai Pro Spectrum** <br> [Link to file](./Monokai%20Pro%20Spectrum)     | ![Spectrum](./images/MonokaiProSpectrum.webp)    |
-| **Monokai Pro Light** <br> [Link to file](./Monokai%20Pro%20Light)           | ![Light](./images/MonokaiProLight.webp)          |
-| **Monokai Pro Light Sun** <br> [Link to file](./Monokai%20Pro%20Light%20Sun) | ![Sun](./images/MonokaiProLightSun.webp)         |
+| Theme                                                                          | Preview                                          |
+| ------------------------------------------------------------------------------ | ------------------------------------------------ |
+| **Monokai Pro** <br> [Link to config](./Monokai%20Pro)                         | ![Monokai Pro](./images/MonokaiPro.webp)         |
+| **Monokai Classic** <br> [Link to config](./Monokai%20Classic)                 | ![Monokai Classic](./images/MonokaiClassic.webp) |
+| **Monokai Pro Octagon** <br> [Link to config](./Monokai%20Pro%20Octagon)       | ![Octagon](./images/MonokaiProOctagon.webp)      |
+| **Monokai Pro Machine** <br> [Link to config](./Monokai%20Pro%20Machine)       | ![Machine](./images/MonokaiProMachine.webp)      |
+| **Monokai Pro Ristretto** <br> [Link to config](./Monokai%20Pro%20Ristretto)   | ![Ristretto](./images/MonokaiProRistretto.webp)  |
+| **Monokai Pro Spectrum** <br> [Link to config](./Monokai%20Pro%20Spectrum)     | ![Spectrum](./images/MonokaiProSpectrum.webp)    |
+| **Monokai Pro Light** <br> [Link to config](./Monokai%20Pro%20Light)           | ![Light](./images/MonokaiProLight.webp)          |
+| **Monokai Pro Light Sun** <br> [Link to config](./Monokai%20Pro%20Light%20Sun) | ![Sun](./images/MonokaiProLightSun.webp)         |
 
 <br>
 
